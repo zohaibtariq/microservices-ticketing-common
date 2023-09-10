@@ -7,6 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "author": {
+    "name": "Zohaib Tariq",
+    "email": "zebwebdev@gmail.com",
+    "url": "https://www.linkedin.com/in/zohaib-tariq/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zohaibtariq/microservices-ticketing-common"
+  }
 }
