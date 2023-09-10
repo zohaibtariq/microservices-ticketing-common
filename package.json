@@ -11,7 +11,7 @@
   "scripts": {
     "build": "npm run clean && tsc",
     "clean": "del ./build/*",
-    "pub": "git add . && git commit -m \"Updates in development\" && npm version minor && npm run build && npm publish --access public"
+    "pub": "git add . && git commit -m \"Updates in development\" && npm version minor && npm run build && npm publish"
   },
   "keywords": [],
   "license": "MIT",
