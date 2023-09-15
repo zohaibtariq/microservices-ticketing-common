@@ -1,6 +1,6 @@
 {
   "name": "@microservices-ticketing/common",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "private": false,
   "description": "",
   "main": "./build/index.js",
